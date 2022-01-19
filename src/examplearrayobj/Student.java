@@ -10,6 +10,7 @@ package examplearrayobj;
  * 
  * @author gen3r
  * @version 1.0 jdk-17
+ * @see your MOM 
  */
 public class Student {
     private String name;//when able declaring anby variable, do private - encapsulation principle, *we are going to ingore that due to time(158)
