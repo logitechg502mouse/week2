@@ -7,6 +7,7 @@ package examplearrayobj;
 /**
  *array of objects - Student class - encapsulation 
  * @author gen3r
+ * *version 1
  */
 public class ExampleArrayObj {
 
